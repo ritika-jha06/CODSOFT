@@ -1,7 +1,8 @@
 # CODSOFT
 Maintaining a Tech Internship Repository for all the tasks that I'll perform during the internship period as a Machine Learning Intern at @CodSoft.
 
-# Movie Genre Classification
+# TASK 1:
+## Movie Genre Classification
 This repository contains a machine learning project for classifying movies into their respective genres based on metadata such as plot summaries, keywords, cast information, and more.
 
 ## 📚 Project Overview
